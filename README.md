@@ -93,6 +93,6 @@
 
 
 
-<div align="center">
+<div align="left">
     <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div> -->
