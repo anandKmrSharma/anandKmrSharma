@@ -63,8 +63,8 @@
 - Tailwind <img src="https://raw.githubusercontent.com/app-generator/static/master/tailwind-css/tailwind-css-components-intro.gif" width="30"> 
 - Express <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--RI_lzIWT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2APTKhCN2p9S8EDZ4r.gif" width="30"> 
 
-    <a href="https://github.com/Abhisingh755/github-readme-stats" title="Go to Source">
-      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=Abhisingh755&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
+    <a href="https://github.com/anandKmrSharma/github-readme-stats" title="Go to Source">
+      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=anandKmrSharma&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
     </a>
 <!-- <a href="https://github.com/anandKmrSharma/github-readme-stats" title="Go to Source">
       <img align="right" width=420 height="auto" src="https://![image](https://user-images.githubusercontent.com/87422058/148254181-aa96ea40-16b6-44b4-990a-20f558387755.png)
