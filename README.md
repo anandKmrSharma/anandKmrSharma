@@ -44,53 +44,15 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <img align="right" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Coder GIF" width="420" height="330">
 
 
 
-### Hi there, I am Abhishek Singh 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-singh-4b0999b9//)](https://www.linkedin.com/in/abhishek-singh-4b0999b9/)
-[![Gmail Badge](https://img.shields.io/badge/-Abhishek-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:singh80020@gmail.com)](mailto:singh80020@gmail.com) 
+### Hi there, I am Anand Kumar Sharma 👋
+[![Linkedin Badge](https://img.shields.io/badge/-Anand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aks31397/)](https://www.linkedin.com/in/aks31397/)
+[![Gmail Badge](https://img.shields.io/badge/-anand31397@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anand31397@gmail.com)](mailto:anand31397@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://krabhiportfolio.vercel.app/)
+- 🎯 Portfolio website: [Portfolio](https://anand-sooty-tau.vercel.app/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 *Things I love*
@@ -104,7 +66,10 @@
     <a href="https://github.com/Abhisingh755/github-readme-stats" title="Go to Source">
       <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=Abhisingh755&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
     </a>
-
+<a href="https://github.com/anandKmrSharma/github-readme-stats" title="Go to Source">
+      <img align="right" width=420 height="auto" src="https://![image](https://user-images.githubusercontent.com/87422058/148254181-aa96ea40-16b6-44b4-990a-20f558387755.png)
+?username=anandKmrSharma&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
+    </a>
 
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
