@@ -4,7 +4,7 @@
 
 
 
-### Hi there, I am Anand Kumar Sharma 👋
+### Hi there, I am Anand  Sharma 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Anand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aks31397/)](https://www.linkedin.com/in/aks31397/)
 [![Gmail Badge](https://img.shields.io/badge/-anand31397@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anand31397@gmail.com)](mailto:anand31397@gmail.com) 
 
