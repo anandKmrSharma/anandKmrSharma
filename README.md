@@ -5,9 +5,6 @@
 
 
 # Hi there, I am Anand Kumar Sharma 👋
-## Contact ME
-[![Linkedin Badge](https://img.shields.io/badge/-Anand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aks31397/)](https://www.linkedin.com/in/aks31397/)
-[![Gmail Badge](https://img.shields.io/badge/-anand31397@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anand31397@gmail.com)](mailto:anand31397@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://anand-sooty-tau.vercel.app/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
@@ -41,3 +38,8 @@
 <div align="center">
     <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div> -->
+
+
+## Contact ME
+[![Linkedin Badge](https://img.shields.io/badge/-Anand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aks31397/)](https://www.linkedin.com/in/aks31397/)
+[![Gmail Badge](https://img.shields.io/badge/-anand31397@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anand31397@gmail.com)](mailto:anand31397@gmail.com) 
