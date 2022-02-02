@@ -1,6 +1,6 @@
 
 
-<img align="right" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Coder GIF" width="420" height="330"/>
+<img align="right" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Coder GIF" width="300" height="330"/>
 
 
 
